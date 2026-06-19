@@ -487,3 +487,18 @@ body {
 #nextBtn {
     right: 15px;
 }
+.work-time {
+    display: inline-block;
+    margin: 20px 0 30px;
+
+    padding: 12px 24px;
+
+    background: #fff3e8;
+    color: #8b4513;
+
+    border: 2px solid #d2691e;
+    border-radius: 12px;
+
+    font-size: 24px;
+    font-weight: 700;
+}
